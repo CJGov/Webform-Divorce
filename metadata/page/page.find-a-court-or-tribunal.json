@@ -1,0 +1,13 @@
+{
+  "_id": "page.find-a-court-or-tribunal",
+  "_type": "page.content",
+  "body": "It will give you information on each building, including its:\r\n\r\n* address\r\n* direct contact details\r\n* opening times\r\n* visitor information e.g. disabled access or parking",
+  "heading": "Find a court or tribunal",
+  "lede": "Use the  [Find a court or tribunal](https://www.gov.uk/find-court-tribunal) service to find out how to contact HMCTS about any other court and tribunal service.",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "url": "find-a-court-or-tribunal"
+}
