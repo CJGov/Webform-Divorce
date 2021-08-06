@@ -7,13 +7,19 @@
       "_type": "textarea",
       "hint": "Give as much detail as you can, for example dates of any correspondence you've received from us",
       "label": "Your query",
-      "name": "auto_name__10"
+      "name": "auto_name__10",
+      "validation": {
+        "required": true
+      }
     },
     {
       "_id": "page.your-query--upload.auto_name__15",
       "_type": "upload",
       "label": "Upload supporting documents",
-      "name": "auto_name__15"
+      "name": "auto_name__15",
+      "validation": {
+        "required": false
+      }
     }
   ],
   "steps": [
