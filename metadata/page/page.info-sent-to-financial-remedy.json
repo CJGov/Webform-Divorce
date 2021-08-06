@@ -1,0 +1,20 @@
+{
+  "_id": "page.info-sent-to-financial-remedy",
+  "_type": "page.confirmation",
+  "components": [
+    {
+      "_id": "page.info-sent-to-financial-remedy--details",
+      "_type": "details",
+      "html": "An adviser from the Financial Remedy service will respond to your enquiry by email within 10 working days",
+      "summary": "What happens next"
+    }
+  ],
+  "heading": "Thank you for your enquiry",
+  "lede": "We've sent it to the Financial Remedy Team",
+  "show": {
+    "identifier": "auto_name__11",
+    "operator": "is",
+    "value": "auto_value__10"
+  },
+  "url": "info-sent-to-financial-remedy"
+}

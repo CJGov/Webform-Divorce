@@ -24,7 +24,8 @@
     "page.your-details",
     "page.your-query",
     "page.check-yor-answers",
-    "page.confirmation-page"
+    "page.confirmation-page",
+    "page.info-sent-to-financial-remedy"
   ],
   "url": "/"
 }

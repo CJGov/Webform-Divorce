@@ -30,5 +30,8 @@
     }
   ],
   "enableSteps": true,
+  "steps": [
+    "page.online-divorce-link"
+  ],
   "url": "what-do-you-want-to-do"
 }
