@@ -26,7 +26,6 @@
   ],
   "enableSteps": true,
   "steps": [
-    "page.Contact-details-for-HMCTS-services",
     "page.find-a-court-or-tribunal"
   ],
   "url": "what-do-you-need-help-with"

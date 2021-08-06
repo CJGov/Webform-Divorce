@@ -8,7 +8,16 @@
       "hint": "Give as much detail as you can, for example dates of any correspondence you've received from us",
       "label": "Your query",
       "name": "auto_name__10"
+    },
+    {
+      "_id": "page.your-query--upload.auto_name__15",
+      "_type": "upload",
+      "label": "Upload supporting documents",
+      "name": "auto_name__15"
     }
+  ],
+  "steps": [
+    "page.your-query-check"
   ],
   "url": "your-query"
 }

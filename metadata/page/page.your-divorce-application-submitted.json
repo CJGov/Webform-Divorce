@@ -1,0 +1,53 @@
+{
+  "_id": "page.your-divorce-application-submitted",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.your-divorce-application-submitted--radios.auto_name__13",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.your-divorce-application-submitted--radios.auto_name__13--radio.auto_value__15",
+          "_type": "radio",
+          "label": "Online",
+          "value": "auto_value__15"
+        },
+        {
+          "_id": "page.your-divorce-application-submitted--radios.auto_name__13--radio.auto_value__16",
+          "_type": "radio",
+          "label": "Paper",
+          "value": "auto_value__16"
+        },
+        {
+          "_id": "page.your-divorce-application-submitted--radios.auto_name__13--radio.auto_value__17",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.your-divorce-application-submitted--radios.auto_name__13--radio.auto_value__17--radios.auto_name__14",
+            "_type": "radios",
+            "items": [
+              {
+                "_id": "page.your-divorce-application-submitted--radios.auto_name__13--radio.auto_value__17--radios.auto_name__14--radio.auto_value__18",
+                "_type": "radio",
+                "label": "Yes",
+                "value": "auto_value__18"
+              },
+              {
+                "_id": "page.your-divorce-application-submitted--radios.auto_name__13--radio.auto_value__17--radios.auto_name__14--radio.auto_value__19",
+                "_type": "radio",
+                "label": "No",
+                "value": "auto_value__19"
+              }
+            ],
+            "legend": "was your divorce before x date",
+            "name": "auto_name__14"
+          },
+          "label": "Not sure",
+          "value": "auto_value__17"
+        }
+      ],
+      "legend": "Was your divorce application submitted",
+      "name": "auto_name__13"
+    }
+  ],
+  "url": "your-divorce-application-submitted"
+}

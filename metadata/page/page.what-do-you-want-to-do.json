@@ -1,0 +1,34 @@
+{
+  "_id": "page.what-do-you-want-to-do",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.what-do-you-want-to-do--radios.auto_name__12",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.what-do-you-want-to-do--radios.auto_name__12--radio.auto_value__12",
+          "_type": "radio",
+          "label": "Start an application",
+          "value": "auto_value__12"
+        },
+        {
+          "_id": "page.what-do-you-want-to-do--radios.auto_name__12--radio.auto_value__13",
+          "_type": "radio",
+          "label": "Query or update on an active application",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.what-do-you-want-to-do--radios.auto_name__12--radio.auto_value__14",
+          "_type": "radio",
+          "label": "Query or need information on a previous application",
+          "value": "auto_value__14"
+        }
+      ],
+      "legend": "What do you want to do?",
+      "name": "auto_name__12"
+    }
+  ],
+  "enableSteps": true,
+  "url": "what-do-you-want-to-do"
+}

@@ -16,13 +16,15 @@
   "lede": "Use this form to contact HMCTS about a probate or divorce application, or about a court claim for money",
   "steps": [
     "page.what-do-you-need-help-with",
+    "page.what-do-you-want-to-do",
     "page.about-your-query--2",
     "page.about-your-query",
     "page.about-you",
     "page.your-details",
     "page.your-query",
     "page.check-yor-answers",
-    "page.confirmation-page"
+    "page.confirmation-page",
+    "page.your-divorce-application-submitted"
   ],
   "url": "/"
 }
