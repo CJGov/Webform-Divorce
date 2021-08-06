@@ -1,0 +1,22 @@
+{
+  "_id": "page.a-link-to-fact",
+  "_type": "page.exit",
+  "heading": "link to FaCT (content to be confirmed)",
+  "lede": "[link to FaCT](https://www.) link to be confirmed",
+  "show": {
+    "any": [
+      {
+        "identifier": "auto_name__14",
+        "operator": "is",
+        "value": "auto_value__18"
+      },
+      {
+        "identifier": "auto_name__13",
+        "operator": "is",
+        "value": "auto_value__16"
+      }
+    ],
+    "conditionsType": "any"
+  },
+  "url": "a-link-to-fact"
+}

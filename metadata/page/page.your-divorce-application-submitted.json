@@ -49,5 +49,9 @@
       "name": "auto_name__13"
     }
   ],
+  "enableSteps": true,
+  "steps": [
+    "page.a-link-to-fact"
+  ],
   "url": "your-divorce-application-submitted"
 }

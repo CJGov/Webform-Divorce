@@ -59,5 +59,10 @@
       "name": "auto_name__11"
     }
   ],
+  "enableSteps": true,
+  "steps": [
+    "page.find-a-court-or-tribunal--2",
+    "page.get-help-paying-fees"
+  ],
   "url": "about-your-query"
 }

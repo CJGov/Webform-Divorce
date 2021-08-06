@@ -1,0 +1,13 @@
+{
+  "_id": "page.get-help-paying-fees",
+  "_type": "page.exit",
+  "body": "This guidance will tell you how to get money off your [Find a court or tribunal](https://www.) if you have little or no savings, are on certain benefits or have a low income.",
+  "heading": "Get help paying court or tribunal fees",
+  "lede": "Find out  [how to get help with court and tribunal fees](https://www.gov.uk/find-court-tribunal,) including how to check if you're eligible.",
+  "show": {
+    "identifier": "auto_name__11",
+    "operator": "is",
+    "value": "auto_value__9"
+  },
+  "url": "get-help-paying-fees"
+}
