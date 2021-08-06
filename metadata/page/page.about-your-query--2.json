@@ -7,36 +7,48 @@
       "_type": "radios",
       "items": [
         {
-          "_id": "page.about-your-query--2--radios.auto_name__11--radio.auto_value__2",
-          "_type": "radio",
-          "label": "How to make a new application",
-          "value": "auto_value__2"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.about-your-query--2--radios.auto_name__11--radio.auto_value__7",
           "_type": "radio",
-          "label": "Get an update on an application i've submitted",
+          "hint": "To check the progress of your application, the status of a decree nisi, order copies of your decree absolute, acknowledgment of service from the respondent, etc.",
+          "label": "Get information regarding an application I've submitted",
           "value": "auto_value__7"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.about-your-query--2--radios.auto_name__11--radio.auto_value__8",
           "_type": "radio",
-          "label": "Find a court or tribunal building",
+          "hint": "If you are unable to progress due to a technical issue or require further assistance.",
+          "label": "Experiencing problems submitting or responding to an application",
           "value": "auto_value__8"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.about-your-query--2--radios.auto_name__11--radio.auto_value__9",
           "_type": "radio",
-          "label": "Find out about help with paying court fee",
+          "hint": "Help with fees, payment problems, objections to costs, etc.",
+          "label": "Find out about help with paying court fees ",
           "value": "auto_value__9"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.about-your-query--2--radios.auto_name__11--radio.auto_value__10",
           "_type": "radio",
           "label": "In Regards to a financial remedy case",
           "value": "auto_value__10"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.about-your-query--2--radios.auto_name__11--radio.auto_value__11",
           "_type": "radio",
           "label": "Find a court or tribunal building",

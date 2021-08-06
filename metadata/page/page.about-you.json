@@ -9,14 +9,21 @@
         {
           "_id": "page.about-you--radios.auto_name__4--radio.auto_value__5",
           "_type": "radio",
-          "label": "Claimant",
+          "hint": "The party who has applied or is applying for a divorce.",
+          "label": "Petitioner ",
           "value": "auto_value__5"
         },
         {
           "_id": "page.about-you--radios.auto_name__4--radio.auto_value__6",
           "_type": "radio",
-          "label": "Legal representative",
+          "label": "Respondent ",
           "value": "auto_value__6"
+        },
+        {
+          "_id": "page.about-you--radios.auto_name__4--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Legal representative ",
+          "value": "auto_value__2"
         }
       ],
       "legend": "About you",
