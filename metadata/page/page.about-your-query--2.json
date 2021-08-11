@@ -53,6 +53,12 @@
           "_type": "radio",
           "label": "Find a court or tribunal building",
           "value": "auto_value__11"
+        },
+        {
+          "_id": "page.about-your-query--2--radios.auto_name__11--radio.auto_value__12",
+          "_type": "radio",
+          "label": "Make a complaint",
+          "value": "auto_value__12"
         }
       ],
       "legend": "About your query",
@@ -60,7 +66,13 @@
     }
   ],
   "enableSteps": true,
+  "showSteps": {
+    "identifier": "auto_name__11",
+    "operator": "is",
+    "value": "auto_value__7"
+  },
   "steps": [
+    "page.Tellusmore",
     "page.find-a-court-or-tribunal--2",
     "page.get-help-paying-fees"
   ],
