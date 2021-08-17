@@ -74,7 +74,8 @@
   "steps": [
     "page.Tellusmore",
     "page.find-a-court-or-tribunal--2",
-    "page.get-help-paying-fees"
+    "page.get-help-paying-fees",
+    "page.complaints"
   ],
   "url": "about-your-query"
 }

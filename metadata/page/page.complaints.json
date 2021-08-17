@@ -1,0 +1,12 @@
+{
+  "_id": "page.complaints",
+  "_type": "page.exit",
+  "body": "Continue to the [online complaints form](https://hmcts-complaints.dev.form.service.justice.gov.uk/)",
+  "heading": "Make a complaint about a court or tribunal",
+  "show": {
+    "identifier": "auto_name__11",
+    "operator": "is",
+    "value": "auto_value__12"
+  },
+  "url": "complaints"
+}
