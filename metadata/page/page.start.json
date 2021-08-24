@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Use the  [Find a court or tribunal](https://www.gov.uk/find-court-tribunal) service to find out how to contact HMCTS about any other court and tribunal service.\r\n\r\n## If your query is urgent\r\n\r\nWe aim to respond to queries we receive through this service within 10 working days.  if your query is urgent, call:\r\n\r\n* 0300 123 1072 for [Probate enquiries](https://) \r\n* 0300 303 0642 for [divorce enquiries](https://) \r\n* 0300 123 1372 for [Court claims for money](https://) \r\n\r\nOur call centres are open Monday to Friday, 8am to 4pm.",
+  "body": "Use the  [Find a court or tribunal](https://www.gov.uk/find-court-tribunal) service to find out how to contact HMCTS about any other court and tribunal service.\r\n\r\n## If your query is urgent\r\n\r\nWe aim to respond to queries we receive through this service within 10 working days.  if your query is urgent, call:\r\n\r\n* 0300 303 0642 for [divorce enquiries](https://) \r\n\r\nOur call centres are open Monday to Friday, 8am to 4pm.",
   "components": [
     {
       "$component": true,

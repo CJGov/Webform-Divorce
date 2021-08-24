@@ -66,6 +66,21 @@
     }
   ],
   "enableSteps": true,
+  "show": {
+    "any": [
+      {
+        "identifier": "auto_name__13",
+        "operator": "is",
+        "value": "auto_value__15"
+      },
+      {
+        "identifier": "auto_name__14",
+        "operator": "is",
+        "value": "auto_value__19"
+      }
+    ],
+    "conditionsType": "any"
+  },
   "showSteps": {
     "identifier": "auto_name__11",
     "operator": "is",
