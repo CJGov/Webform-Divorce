@@ -9,13 +9,13 @@
         {
           "_id": "page.your-divorce-application-submitted--radios.auto_name__13--radio.auto_value__15",
           "_type": "radio",
-          "label": "Online",
+          "label": "Online service",
           "value": "auto_value__15"
         },
         {
           "_id": "page.your-divorce-application-submitted--radios.auto_name__13--radio.auto_value__16",
           "_type": "radio",
-          "label": "Paper",
+          "label": "Paper form",
           "value": "auto_value__16"
         },
         {
@@ -45,7 +45,7 @@
           "value": "auto_value__17"
         }
       ],
-      "legend": "How was your divorce application submitted",
+      "legend": "How did you apply for a divorce?",
       "name": "auto_name__13"
     }
   ],

@@ -17,8 +17,8 @@
   "steps": [
     "page.what-do-you-need-help-with",
     "page.what-do-you-want-to-do",
-    "page.your-divorce-application-submitted",
     "page.about-your-query--2",
+    "page.your-divorce-application-submitted",
     "page.about-your-query",
     "page.your-details",
     "page.your-query",
